@@ -5,7 +5,7 @@ Projects 1-4 in SI1136 - Simulation and modelling
 1. [**Oscillations and Chaos**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%201)
 2. [**Random processes and Complex Systems**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%202)
 3. [**Monte Carlo and Molecular Dynamics**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%203)
-4. [**Electrostatics and the Laplace Equation**]((https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%204)
+4. [**Electrostatics and the Laplace Equation**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%204)
 
 ### Final project
 The Final project was implemented as an analysis of compartmental models <br/>
