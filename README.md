@@ -1,5 +1,5 @@
 # SI1136 Simulation and modelling
-Projects 1-4 in SI1136 - [Simulation and modelling](https://www.kth.se/student/kurser/kurs/SI1336?l=en)
+Projects 1-4 in [SI1336 Simulation and modelling](https://www.kth.se/student/kurser/kurs/SI1336?l=en)
 
 ## Projects
 1. [**Oscillations and Chaos**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%201)
