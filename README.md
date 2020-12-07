@@ -13,6 +13,6 @@ in predicting the progression of COVID-19
 and can be found [here](https://github.com/raymondw99/Compartmental-Models).
 
 Parts of the codes have been based upon the previous work of [Axel Strömberg](https://github.com/axelstr/Simulation_and_modeling)
-and [Erik Weilow](https://github.com/axelstr/Simulation_and_modeling). 
+and [Erik Weilow](https://github.com/eweilow/simulation-and-modeling). 
 
 © Raymond Wang, Axel Strömberg, Erik Weilow
