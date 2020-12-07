@@ -10,7 +10,7 @@ Projects 1-4 in SI1136 - Simulation and modelling
 ### Final project
 The Final project was implemented as an analysis of compartmental models <br/>
 in predicting the progression of COVID-19 
-and can be found [here](https://gits-15.sys.kth.se/raymondw/Compartmental-models).
+and can be found [here](https://github.com/raymondw99/Compartmental-Models).
 
 Parts of the codes have been based upon the previous work of [Axel Strömberg](https://github.com/axelstr/Simulation_and_modeling)
 and [Erik Weilow](https://github.com/axelstr/Simulation_and_modeling). 
