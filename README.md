@@ -2,10 +2,10 @@
 Projects 1-4 in [SI1336 Simulation and modelling](https://www.kth.se/student/kurser/kurs/SI1336?l=en)
 
 ## Projects
-1. [**Oscillations and Chaos**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%201)
-2. [**Random processes and Complex Systems**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%202)
-3. [**Monte Carlo and Molecular Dynamics**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%203)
-4. [**Electrostatics and the Laplace Equation**](https://gits-15.sys.kth.se/raymondw/SI1336/tree/master/Project%204)
+1. [**Oscillations and Chaos**](https://github.com/raymondw99/SI1336/tree/main/Project%201)
+2. [**Random processes and Complex Systems**](https://github.com/raymondw99/SI1336/tree/main/Project%202)
+3. [**Monte Carlo and Molecular Dynamics**](https://github.com/raymondw99/SI1336/tree/main/Project%203)
+4. [**Electrostatics and the Laplace Equation**](https://github.com/raymondw99/SI1336/tree/main/Project%204)
 
 ### Final project
 The Final project was implemented as an analysis of compartmental models <br/>
