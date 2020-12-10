@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 import numpy as np
 import random
 from matplotlib import pyplot as plt
@@ -114,6 +112,6 @@ def plot_Greens_function(n=10, nwalks=500, position=[5,5]):
 #plot_Greens_function(n=10, nwalks=100000, position=[5,3])
   
 # 10.18 b) ===================================================================  
-# Ändra de positioner med potential 20 för att maximera potentialen för olika positioner. 
-# och ändra titeln i plotten till den positione
+# Change the positions with potential 20 in order to maxizime the potential 
+# for various positions
 find_potential(n=10, nwalks=1000)
