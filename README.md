@@ -8,7 +8,7 @@ Projects 1-4 in [SI1336 Simulation and modelling](https://www.kth.se/student/kur
 4. [**Electrostatics and the Laplace Equation**](https://github.com/raymondw99/SI1336/tree/main/Project%204)
 
 ### Final project
-The Final project was implemented as an analysis of compartmental models <br/>
+The final project was implemented as an analysis of compartmental models <br/>
 in predicting the progression of COVID-19 
 and can be found [here](https://github.com/raymondw99/Compartmental-Models).
 
