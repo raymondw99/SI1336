@@ -12,7 +12,7 @@ The final project was implemented as an analysis of compartmental models <br/>
 in predicting the progression of COVID-19 
 and can be found [here](https://github.com/raymondw99/Compartmental-Models).
 
-The material haa been partially based upon the previous work by [Axel Strömberg](https://github.com/axelstr/Simulation_and_modeling)
+The material has been partially based upon the previous work by [Axel Strömberg](https://github.com/axelstr/Simulation_and_modeling)
 and [Erik Weilow](https://github.com/eweilow/simulation-and-modeling). 
 
 © Raymond Wang 2020
